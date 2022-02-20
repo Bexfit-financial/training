@@ -1,0 +1,8 @@
+#this is a function practice
+greetfn()
+{
+echo "welcome to class 15 group" `whoami`
+`date`
+}
+greetfn
+
