@@ -5,4 +5,4 @@ echo "welcome to class 15 group" `whoami`
 `date`
 }
 greetfn
-
+echo "line added just for practice purposes"
