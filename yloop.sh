@@ -12,3 +12,4 @@ do
         n=`expr $n + 100`
 done
 echo ''$name' you have reached your printing capacity'
+fix error code
